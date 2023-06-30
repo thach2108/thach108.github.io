@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.71b3eac3.css",
-    "main.js": "/static/js/main.fb266f9c.js",
-    "static/js/797.b3355dd8.chunk.js": "/static/js/797.b3355dd8.chunk.js",
-    "static/js/288.9ce26f86.chunk.js": "/static/js/288.9ce26f86.chunk.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/js/875.a4a2cb39.chunk.js": "/static/js/875.a4a2cb39.chunk.js",
-    "static/js/568.340239c7.chunk.js": "/static/js/568.340239c7.chunk.js",
-    "static/js/997.78f096cd.chunk.js": "/static/js/997.78f096cd.chunk.js",
-    "static/media/app-1-svgrepo-com.svg": "/static/media/app-1-svgrepo-com.60d2efde50822606bf0f4e46279cda6a.svg",
-    "index.html": "/index.html",
-    "static/media/plus-alt-svgrepo-com.svg": "/static/media/plus-alt-svgrepo-com.c351f39acf765fc99f6bebb5668f0a33.svg",
-    "static/media/left-lg-svgrepo-com.svg": "/static/media/left-lg-svgrepo-com.4247f75203e47c0ff4004b83745048db.svg",
-    "main.71b3eac3.css.map": "/static/css/main.71b3eac3.css.map",
-    "main.fb266f9c.js.map": "/static/js/main.fb266f9c.js.map",
-    "797.b3355dd8.chunk.js.map": "/static/js/797.b3355dd8.chunk.js.map",
-    "288.9ce26f86.chunk.js.map": "/static/js/288.9ce26f86.chunk.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map",
-    "875.a4a2cb39.chunk.js.map": "/static/js/875.a4a2cb39.chunk.js.map",
-    "568.340239c7.chunk.js.map": "/static/js/568.340239c7.chunk.js.map",
-    "997.78f096cd.chunk.js.map": "/static/js/997.78f096cd.chunk.js.map"
+    "main.css": "/two-factor-auth/static/css/main.71b3eac3.css",
+    "main.js": "/two-factor-auth/static/js/main.36b395d4.js",
+    "static/js/797.b3355dd8.chunk.js": "/two-factor-auth/static/js/797.b3355dd8.chunk.js",
+    "static/js/288.9ce26f86.chunk.js": "/two-factor-auth/static/js/288.9ce26f86.chunk.js",
+    "static/js/787.28cb0dcd.chunk.js": "/two-factor-auth/static/js/787.28cb0dcd.chunk.js",
+    "static/js/875.0e6d50ae.chunk.js": "/two-factor-auth/static/js/875.0e6d50ae.chunk.js",
+    "static/js/568.340239c7.chunk.js": "/two-factor-auth/static/js/568.340239c7.chunk.js",
+    "static/js/997.78f096cd.chunk.js": "/two-factor-auth/static/js/997.78f096cd.chunk.js",
+    "static/media/app-1-svgrepo-com.svg": "/two-factor-auth/static/media/app-1-svgrepo-com.60d2efde50822606bf0f4e46279cda6a.svg",
+    "index.html": "/two-factor-auth/index.html",
+    "static/media/plus-alt-svgrepo-com.svg": "/two-factor-auth/static/media/plus-alt-svgrepo-com.c351f39acf765fc99f6bebb5668f0a33.svg",
+    "static/media/left-lg-svgrepo-com.svg": "/two-factor-auth/static/media/left-lg-svgrepo-com.4247f75203e47c0ff4004b83745048db.svg",
+    "main.71b3eac3.css.map": "/two-factor-auth/static/css/main.71b3eac3.css.map",
+    "main.36b395d4.js.map": "/two-factor-auth/static/js/main.36b395d4.js.map",
+    "797.b3355dd8.chunk.js.map": "/two-factor-auth/static/js/797.b3355dd8.chunk.js.map",
+    "288.9ce26f86.chunk.js.map": "/two-factor-auth/static/js/288.9ce26f86.chunk.js.map",
+    "787.28cb0dcd.chunk.js.map": "/two-factor-auth/static/js/787.28cb0dcd.chunk.js.map",
+    "875.0e6d50ae.chunk.js.map": "/two-factor-auth/static/js/875.0e6d50ae.chunk.js.map",
+    "568.340239c7.chunk.js.map": "/two-factor-auth/static/js/568.340239c7.chunk.js.map",
+    "997.78f096cd.chunk.js.map": "/two-factor-auth/static/js/997.78f096cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.71b3eac3.css",
-    "static/js/main.fb266f9c.js"
+    "static/js/main.36b395d4.js"
   ]
 }

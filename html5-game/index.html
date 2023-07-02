@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+  <head> 
+    <title>ver 19-04-18</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10">
+    <link rel="shortcut icon" href="favorite.ico" type="favorite/ico">
+    <link href="https://fonts.googleapis.com/css?family=Cabin:400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Bungee" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+    <link rel="stylesheet" href="libs/bootstrap/css/bootstrap.min.css">
+    <style id="var"></style>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="bg--lock text-center">
+      <h1>hãy quay ngang màn hình để chơi</h1>
+    </div>
+    <div id="wrapper">
+      <div class="bg--black disable text-center" id="bg-click">
+        <button>play</button>
+      </div>
+      <div class="bg--question text-center bg--site disable">
+        <div class="bg--question__box">
+          <h1 id="question">Let’s choose words which begin with “<span style="color: red;"> </span>” sound?</h1>
+          <div class="bg--question__three">
+            <div class="col-33 col">
+              <div class="bg--question__item" id="Answer1" index="0"><img class="lazyload" src="" alt="">
+                <p class="disable">Book</p>
+                <div class="z-index"></div>
+              </div>
+            </div>
+            <div class="col-33 col">
+              <div class="bg--question__item" id="Answer2" index="1"><img class="lazyload" src="" alt="">
+                <p class="disable">Wallet</p>
+                <div class="z-index"></div>
+              </div>
+            </div>
+            <div class="col-33 col">
+              <div class="bg--question__item" id="Answer3" index="2"><img class="lazyload" src="" alt="">
+                <p class="disable">Shoses</p>
+                <div class="z-index"></div>
+              </div>
+            </div>
+            <div class="clearfix">   </div>
+          </div>
+        </div>
+      </div>
+      <!--bg--question -->
+      <div class="bg--learn bg--site text-center bg--black disable">
+        <div class="bg--learn__box"><a class="btn-close btn"><img class="lazyload" src="images/close.png" alt="close"></a>
+          <div class="bg--learn__list-item">
+            <div class="clearfix">   </div>
+          </div>
+          <div class="bg--learn__btn-box"><a class="btn btn-sound"><img class="lazyload" src="images/loa1.png" alt=""></a><a class="btn btn-play"><img class="lazyload" src="images/play.png" alt=""></a><a class="btn btn-sound-repeat"><img class="lazyload" src="images/loa2.png" alt=""></a></div>
+        </div>
+      </div>
+      <!--.bg--learn-->
+      <div class="bg--excellent bg--site text-center bg--black disable">
+        <div class="bg--excellent__box"><a class="btn-close btn"><img class="lazyload" src="images/close.png" alt="close"></a>
+          <div class="img-win"><img class="lazyload" id="icon-win" src="" alt="">
+            <p><span>0</span>Điểm</p>
+          </div>
+          <p>Excellent</p>
+          <div class="bg--excellent__btn-box"><a class="btn btn-play"><img class="lazyload" src="images/play.png" alt=""></a><a class="btn btn-learn"><img class="lazyload" src="images/learn.png" alt=""></a></div>
+        </div>
+      </div>
+      <!--.bg--excellent-->
+      <div class="bg--fail bg--site text-center bg--black disable">
+        <div class="bg--fail__box"><a class="btn-close btn"><img class="lazyload" src="images/close.png" alt="close"></a>
+          <div class="img-fail">
+            <p> <span>0 </span>Điểm  </p>
+          </div>
+          <p>Try again !</p>
+          <div class="bg--fail__btn-box"><a class="btn btn-play"><img class="lazyload" src="images/play.png" alt=""></a><a class="btn btn-learn"><img class="lazyload" src="images/learn.png" alt=""></a></div>
+        </div>
+      </div>
+      <!--.bg--fail-->
+      <div class="bg--play bg--site bg--black active">
+        <div class="bg--play__img">
+          <div class="bg--play__fox">
+            <!--.fox-4-->
+          </div>
+          <div class="text-center bg--play__btn disable"><a class="btn btn-start btn-play"><img class="lazyload" src="" alt=""></a><a class="btn btn-start btn-learn"><img class="lazyload" src="" alt=""></a></div>
+          <div class="bg--play__load">   
+            <div class="load" id="load">
+              <div class="process" id="process"></div><span>loading... 0%</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--.bg--play-->
+      <div class="bg--map text-center disable">
+        <div class="map">
+          <div class="main">
+            <div class="player"></div>
+          </div>
+          <ul class="list-inline list-box">
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li class="box-win"></li>
+            <li class="box-cup"></li>
+            <li class="box-last"> </li>
+          </ul>
+        </div>
+      </div>
+      <!--.bg--map    -->
+    </div>
+  </body>
+  <script src="libs/jquery/jquery-3.2.1.min.js"></script>
+  <script src="libs/bootstrap/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="libs/createjs/createjs.min.js"></script>
+  <script type="text/javascript" src="js/bundle-3f.js"> </script>
+</html>

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/two-factor-auth/static/css/main.71b3eac3.css",
-    "main.js": "/two-factor-auth/static/js/main.36b395d4.js",
+    "main.js": "/two-factor-auth/static/js/main.cf7be6e5.js",
     "static/js/797.b3355dd8.chunk.js": "/two-factor-auth/static/js/797.b3355dd8.chunk.js",
     "static/js/288.9ce26f86.chunk.js": "/two-factor-auth/static/js/288.9ce26f86.chunk.js",
     "static/js/787.28cb0dcd.chunk.js": "/two-factor-auth/static/js/787.28cb0dcd.chunk.js",
@@ -13,7 +13,7 @@
     "static/media/plus-alt-svgrepo-com.svg": "/two-factor-auth/static/media/plus-alt-svgrepo-com.c351f39acf765fc99f6bebb5668f0a33.svg",
     "static/media/left-lg-svgrepo-com.svg": "/two-factor-auth/static/media/left-lg-svgrepo-com.4247f75203e47c0ff4004b83745048db.svg",
     "main.71b3eac3.css.map": "/two-factor-auth/static/css/main.71b3eac3.css.map",
-    "main.36b395d4.js.map": "/two-factor-auth/static/js/main.36b395d4.js.map",
+    "main.cf7be6e5.js.map": "/two-factor-auth/static/js/main.cf7be6e5.js.map",
     "797.b3355dd8.chunk.js.map": "/two-factor-auth/static/js/797.b3355dd8.chunk.js.map",
     "288.9ce26f86.chunk.js.map": "/two-factor-auth/static/js/288.9ce26f86.chunk.js.map",
     "787.28cb0dcd.chunk.js.map": "/two-factor-auth/static/js/787.28cb0dcd.chunk.js.map",
@@ -23,6 +23,6 @@
   },
   "entrypoints": [
     "static/css/main.71b3eac3.css",
-    "static/js/main.36b395d4.js"
+    "static/js/main.cf7be6e5.js"
   ]
 }

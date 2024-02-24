@@ -1,35 +1,36 @@
 {
   "files": {
-    "main.css": "/fundiin/static/css/main.b70ef2c3.css",
-    "main.js": "/fundiin/static/js/main.f297f3cd.js",
-    "static/js/158.34a08cf9.chunk.js": "/fundiin/static/js/158.34a08cf9.chunk.js",
+    "main.css": "/fundiin/static/css/main.8f9c30c2.css",
+    "main.js": "/fundiin/static/js/main.6546cfb3.js",
+    "static/js/329.ed750c57.chunk.js": "/fundiin/static/js/329.ed750c57.chunk.js",
     "static/js/278.f29b2580.chunk.js": "/fundiin/static/js/278.f29b2580.chunk.js",
     "static/js/81.baae4211.chunk.js": "/fundiin/static/js/81.baae4211.chunk.js",
     "static/js/91.6c40faf9.chunk.js": "/fundiin/static/js/91.6c40faf9.chunk.js",
     "static/js/482.67d42271.chunk.js": "/fundiin/static/js/482.67d42271.chunk.js",
-    "static/js/979.7c1814df.chunk.js": "/fundiin/static/js/979.7c1814df.chunk.js",
+    "static/js/979.91112794.chunk.js": "/fundiin/static/js/979.91112794.chunk.js",
     "static/media/_logo.svg": "/fundiin/static/media/_logo.febae93c1f528548b8bcf650c715d684.svg",
     "static/media/revicons.eot": "/fundiin/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/fundiin/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/fundiin/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/_percent.svg": "/fundiin/static/media/_percent.b05848a166e553e25eca65e2b3c36ad6.svg",
-    "static/media/_smile.svg": "/fundiin/static/media/_smile.5ca3f6b7b94375b3e5617d1874a278d3.svg",
+    "static/media/_smile.svg": "/fundiin/static/media/_smile.75d385cbdccf5b11bc0d61a53b441fd1.svg",
     "static/media/_eye.svg": "/fundiin/static/media/_eye.d97ad1150a5e12de0a7c097c260733d5.svg",
     "index.html": "/fundiin/index.html",
     "static/media/_check.svg": "/fundiin/static/media/_check.0ffabf654b05b8b71a96432ab3ab1d91.svg",
     "static/media/_colapse-menu.svg": "/fundiin/static/media/_colapse-menu.42b47b1642b2a34d2de395149e9aac72.svg",
+    "static/media/_fire.svg": "/fundiin/static/media/_fire.441e2ddf03a542b4fac9b8e50edec598.svg",
     "static/media/_arrow-right.svg": "/fundiin/static/media/_arrow-right.afbee92b150163885b9ee5124595b8d6.svg",
-    "main.b70ef2c3.css.map": "/fundiin/static/css/main.b70ef2c3.css.map",
-    "main.f297f3cd.js.map": "/fundiin/static/js/main.f297f3cd.js.map",
-    "158.34a08cf9.chunk.js.map": "/fundiin/static/js/158.34a08cf9.chunk.js.map",
+    "main.8f9c30c2.css.map": "/fundiin/static/css/main.8f9c30c2.css.map",
+    "main.6546cfb3.js.map": "/fundiin/static/js/main.6546cfb3.js.map",
+    "329.ed750c57.chunk.js.map": "/fundiin/static/js/329.ed750c57.chunk.js.map",
     "278.f29b2580.chunk.js.map": "/fundiin/static/js/278.f29b2580.chunk.js.map",
     "81.baae4211.chunk.js.map": "/fundiin/static/js/81.baae4211.chunk.js.map",
     "91.6c40faf9.chunk.js.map": "/fundiin/static/js/91.6c40faf9.chunk.js.map",
     "482.67d42271.chunk.js.map": "/fundiin/static/js/482.67d42271.chunk.js.map",
-    "979.7c1814df.chunk.js.map": "/fundiin/static/js/979.7c1814df.chunk.js.map"
+    "979.91112794.chunk.js.map": "/fundiin/static/js/979.91112794.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b70ef2c3.css",
-    "static/js/main.f297f3cd.js"
+    "static/css/main.8f9c30c2.css",
+    "static/js/main.6546cfb3.js"
   ]
 }

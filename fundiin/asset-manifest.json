@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fundiin/static/css/main.96e89d14.css",
-    "main.js": "/fundiin/static/js/main.43112b46.js",
+    "main.js": "/fundiin/static/js/main.6d76c2a6.js",
     "static/js/101.bc79fd93.chunk.js": "/fundiin/static/js/101.bc79fd93.chunk.js",
     "static/js/96.7e0fa637.chunk.js": "/fundiin/static/js/96.7e0fa637.chunk.js",
     "static/js/69.ac4c707b.chunk.js": "/fundiin/static/js/69.ac4c707b.chunk.js",
@@ -25,6 +25,7 @@
     "static/media/_buy1.png": "/fundiin/static/media/_buy1.401784dd07c21d99322d.png",
     "static/media/_periodic1.png": "/fundiin/static/media/_periodic1.93ba71286b6be25028dc.png",
     "static/media/_hero-partner-mobile.png": "/fundiin/static/media/_hero-partner-mobile.8528cfa9bc16dfed5a95.png",
+    "static/media/_download-app.png": "/fundiin/static/media/_download-app.1ac9a2d7e27bdd767846.png",
     "static/media/_verify2.png": "/fundiin/static/media/_verify2.eedc8d79aed12d632c85.png",
     "static/media/_periodic2.png": "/fundiin/static/media/_periodic2.af8601a0b37aac5a04fe.png",
     "static/media/_buy2.png": "/fundiin/static/media/_buy2.ff71f0c61c9bda36e31c.png",
@@ -41,7 +42,6 @@
     "static/media/_hero-free-mobile.jpg": "/fundiin/static/media/_hero-free-mobile.250a1f8aa951c7613c95.jpg",
     "static/media/_img1.png": "/fundiin/static/media/_img1.3cde8effb0e35d7169c8.png",
     "static/media/_img3.png": "/fundiin/static/media/_img3.25d86e38ad4810843bff.png",
-    "static/media/_download-app.png": "/fundiin/static/media/_download-app.58ebbeadb8e83bdafad8.png",
     "static/media/_img5.png": "/fundiin/static/media/_img5.d9519924f2995e9a19ef.png",
     "static/media/_12.png": "/fundiin/static/media/_12.111d914550fb5c512544.png",
     "static/media/_qr-code.svg": "/fundiin/static/media/_qr-code.ac2ed5e9cd848c7a321827586eadb9f6.svg",
@@ -92,7 +92,7 @@
     "static/media/_right-arrow.svg": "/fundiin/static/media/_right-arrow.88de1ba654fb9f4432623d8863a1e5b4.svg",
     "static/media/_left-arrow.svg": "/fundiin/static/media/_left-arrow.c7acad1b915f647df4ca20ba88f00a80.svg",
     "main.96e89d14.css.map": "/fundiin/static/css/main.96e89d14.css.map",
-    "main.43112b46.js.map": "/fundiin/static/js/main.43112b46.js.map",
+    "main.6d76c2a6.js.map": "/fundiin/static/js/main.6d76c2a6.js.map",
     "101.bc79fd93.chunk.js.map": "/fundiin/static/js/101.bc79fd93.chunk.js.map",
     "96.7e0fa637.chunk.js.map": "/fundiin/static/js/96.7e0fa637.chunk.js.map",
     "69.ac4c707b.chunk.js.map": "/fundiin/static/js/69.ac4c707b.chunk.js.map",
@@ -106,6 +106,6 @@
   },
   "entrypoints": [
     "static/css/main.96e89d14.css",
-    "static/js/main.43112b46.js"
+    "static/js/main.6d76c2a6.js"
   ]
 }

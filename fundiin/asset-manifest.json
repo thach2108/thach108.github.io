@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/fundiin/static/css/main.9c8c7b8d.css",
-    "main.js": "/fundiin/static/js/main.1b69c4dd.js",
-    "static/js/101.03520542.chunk.js": "/fundiin/static/js/101.03520542.chunk.js",
-    "static/js/96.890473c0.chunk.js": "/fundiin/static/js/96.890473c0.chunk.js",
-    "static/js/136.ad77876d.chunk.js": "/fundiin/static/js/136.ad77876d.chunk.js",
-    "static/js/270.6942e7e0.chunk.js": "/fundiin/static/js/270.6942e7e0.chunk.js",
+    "main.js": "/fundiin/static/js/main.c17d0a86.js",
+    "static/js/101.8267c8e4.chunk.js": "/fundiin/static/js/101.8267c8e4.chunk.js",
+    "static/js/96.7b00cc5b.chunk.js": "/fundiin/static/js/96.7b00cc5b.chunk.js",
+    "static/js/136.132d0f67.chunk.js": "/fundiin/static/js/136.132d0f67.chunk.js",
+    "static/js/270.3dea8081.chunk.js": "/fundiin/static/js/270.3dea8081.chunk.js",
     "static/css/132.a0dc3f8f.chunk.css": "/fundiin/static/css/132.a0dc3f8f.chunk.css",
     "static/js/132.a4271a92.chunk.js": "/fundiin/static/js/132.a4271a92.chunk.js",
     "static/js/482.495a2b18.chunk.js": "/fundiin/static/js/482.495a2b18.chunk.js",
@@ -13,7 +13,7 @@
     "static/js/139.f1bcb26f.chunk.js": "/fundiin/static/js/139.f1bcb26f.chunk.js",
     "static/js/287.9b4932e6.chunk.js": "/fundiin/static/js/287.9b4932e6.chunk.js",
     "static/js/754.bde9092c.chunk.js": "/fundiin/static/js/754.bde9092c.chunk.js",
-    "static/js/979.f866d4c9.chunk.js": "/fundiin/static/js/979.f866d4c9.chunk.js",
+    "static/js/979.62eb80d5.chunk.js": "/fundiin/static/js/979.62eb80d5.chunk.js",
     "static/media/_img3.jpg": "/fundiin/static/media/_img3.decf59eb6a7a122e72c5.jpg",
     "static/media/_img4.png": "/fundiin/static/media/_img4.396506cbcd74d46eb2aa.png",
     "static/media/_img2.jpg": "/fundiin/static/media/_img2.e25a58e7bb7b7c09a7a2.jpg",
@@ -61,10 +61,11 @@
     "static/media/_zalo.svg": "/fundiin/static/media/_zalo.9dde7eeb85757ca9404185634bea2d01.svg",
     "static/media/revicons.woff": "/fundiin/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/_register-success.svg": "/fundiin/static/media/_register-success.3f549022521c31334d05c9bf151e06de.svg",
-    "static/media/_pay.svg": "/fundiin/static/media/_pay.154a394a21380542f61abd08ed88047b.svg",
+    "static/media/_pay-outline.svg": "/fundiin/static/media/_pay-outline.154a394a21380542f61abd08ed88047b.svg",
     "static/media/_percent.svg": "/fundiin/static/media/_percent.b05848a166e553e25eca65e2b3c36ad6.svg",
     "static/media/_eyeglass.svg": "/fundiin/static/media/_eyeglass.678f39884a97e2e8932207af76fd4076.svg",
     "static/media/_smile.svg": "/fundiin/static/media/_smile.75d385cbdccf5b11bc0d61a53b441fd1.svg",
+    "static/media/_pay.svg": "/fundiin/static/media/_pay.4764c4933523803cf55410c500d4b36c.svg",
     "static/media/_hotbrands-outline.svg": "/fundiin/static/media/_hotbrands-outline.a6612fdc027e264a1103a4e5ac449879.svg",
     "static/media/_education-outline.svg": "/fundiin/static/media/_education-outline.5d366b8df900e615d46b93f45f4b04da.svg",
     "static/media/_eyeglass-outline.svg": "/fundiin/static/media/_eyeglass-outline.fdbc27553c855f40deded844e6d1bedd.svg",
@@ -108,11 +109,11 @@
     "static/media/_right-arrow.svg": "/fundiin/static/media/_right-arrow.88de1ba654fb9f4432623d8863a1e5b4.svg",
     "static/media/_left-arrow.svg": "/fundiin/static/media/_left-arrow.c7acad1b915f647df4ca20ba88f00a80.svg",
     "main.9c8c7b8d.css.map": "/fundiin/static/css/main.9c8c7b8d.css.map",
-    "main.1b69c4dd.js.map": "/fundiin/static/js/main.1b69c4dd.js.map",
-    "101.03520542.chunk.js.map": "/fundiin/static/js/101.03520542.chunk.js.map",
-    "96.890473c0.chunk.js.map": "/fundiin/static/js/96.890473c0.chunk.js.map",
-    "136.ad77876d.chunk.js.map": "/fundiin/static/js/136.ad77876d.chunk.js.map",
-    "270.6942e7e0.chunk.js.map": "/fundiin/static/js/270.6942e7e0.chunk.js.map",
+    "main.c17d0a86.js.map": "/fundiin/static/js/main.c17d0a86.js.map",
+    "101.8267c8e4.chunk.js.map": "/fundiin/static/js/101.8267c8e4.chunk.js.map",
+    "96.7b00cc5b.chunk.js.map": "/fundiin/static/js/96.7b00cc5b.chunk.js.map",
+    "136.132d0f67.chunk.js.map": "/fundiin/static/js/136.132d0f67.chunk.js.map",
+    "270.3dea8081.chunk.js.map": "/fundiin/static/js/270.3dea8081.chunk.js.map",
     "132.a0dc3f8f.chunk.css.map": "/fundiin/static/css/132.a0dc3f8f.chunk.css.map",
     "132.a4271a92.chunk.js.map": "/fundiin/static/js/132.a4271a92.chunk.js.map",
     "482.495a2b18.chunk.js.map": "/fundiin/static/js/482.495a2b18.chunk.js.map",
@@ -120,10 +121,10 @@
     "139.f1bcb26f.chunk.js.map": "/fundiin/static/js/139.f1bcb26f.chunk.js.map",
     "287.9b4932e6.chunk.js.map": "/fundiin/static/js/287.9b4932e6.chunk.js.map",
     "754.bde9092c.chunk.js.map": "/fundiin/static/js/754.bde9092c.chunk.js.map",
-    "979.f866d4c9.chunk.js.map": "/fundiin/static/js/979.f866d4c9.chunk.js.map"
+    "979.62eb80d5.chunk.js.map": "/fundiin/static/js/979.62eb80d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c8c7b8d.css",
-    "static/js/main.1b69c4dd.js"
+    "static/js/main.c17d0a86.js"
   ]
 }

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fundiin/static/css/main.2e368ccd.css",
-    "main.js": "/fundiin/static/js/main.434e61b5.js",
-    "static/js/748.5b960ea9.chunk.js": "/fundiin/static/js/748.5b960ea9.chunk.js",
+    "main.js": "/fundiin/static/js/main.a95a5dc7.js",
+    "static/js/748.8671c3e7.chunk.js": "/fundiin/static/js/748.8671c3e7.chunk.js",
     "static/js/63.d7276fda.chunk.js": "/fundiin/static/js/63.d7276fda.chunk.js",
     "static/js/76.7e112148.chunk.js": "/fundiin/static/js/76.7e112148.chunk.js",
     "static/js/870.ffa42828.chunk.js": "/fundiin/static/js/870.ffa42828.chunk.js",
@@ -104,8 +104,8 @@
     "static/media/_right-arrow.svg": "/fundiin/static/media/_right-arrow.88de1ba654fb9f4432623d8863a1e5b4.svg",
     "static/media/_left-arrow.svg": "/fundiin/static/media/_left-arrow.c7acad1b915f647df4ca20ba88f00a80.svg",
     "main.2e368ccd.css.map": "/fundiin/static/css/main.2e368ccd.css.map",
-    "main.434e61b5.js.map": "/fundiin/static/js/main.434e61b5.js.map",
-    "748.5b960ea9.chunk.js.map": "/fundiin/static/js/748.5b960ea9.chunk.js.map",
+    "main.a95a5dc7.js.map": "/fundiin/static/js/main.a95a5dc7.js.map",
+    "748.8671c3e7.chunk.js.map": "/fundiin/static/js/748.8671c3e7.chunk.js.map",
     "63.d7276fda.chunk.js.map": "/fundiin/static/js/63.d7276fda.chunk.js.map",
     "76.7e112148.chunk.js.map": "/fundiin/static/js/76.7e112148.chunk.js.map",
     "870.ffa42828.chunk.js.map": "/fundiin/static/js/870.ffa42828.chunk.js.map",
@@ -120,6 +120,6 @@
   },
   "entrypoints": [
     "static/css/main.2e368ccd.css",
-    "static/js/main.434e61b5.js"
+    "static/js/main.a95a5dc7.js"
   ]
 }
